@@ -1,0 +1,43 @@
+[tool.poetry]
+authors = ["extradosages <extradosages@gmail.com>"]
+description = "A modality-tagging library."
+keywords = ["nlp", "modality", "stanza", "spacy"]
+license = "Apache-2.0"
+name = "montee"
+readme = "README.md"
+repository = "https://github.com/extradosages/montee"
+version = "0.1.0"
+
+[tool.poetry.extras]
+spacy = ["spacy"]
+stanza = ["stanza"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+stanza = "^1.5.0"
+spacy = "^3.5.3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+pytest = "^7.3.1"
+ruff = "^0.0.270"
+ipykernel = "^6.23.1"
+pytest-watch = "^4.2.0"
+tox = "^4.6.0"
+
+[tool.poetry.group.stanza.dependencies]
+stanza = { version = "^1.5.0", optional = true }
+
+
+[tool.poetry.group.spacy.dependencies]
+spacy = { version = "^3.5.3", optional = true }
+
+[tool.pytest.ini_options]
+addopts = [
+    "--import-mode=importlib",
+]
+pythonpath = "."
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

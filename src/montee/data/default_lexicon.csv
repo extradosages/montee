@@ -1,0 +1,523 @@
+willing,MOD,2,JJ
+unwilling,MOD,1,JJ
+close to,MOD,1,JJ
+almost,MOD,1,RB
+nearly,MOD,1,RB
+get the chance,MOD,2,VB
+get a chance,MOD,2,VB
+impossible,MOD,0,JJ
+allegedly,MOD,2,JJ
+apparently,MOD,2,JJ
+ensure,MOD,4,VB
+conceivably,MOD,2,RB
+conceivable,MOD,2,JJ
+hypothetically,MOD,2,RB
+certain,MOD,4,JJ
+clear,MOD,4,JJ
+convinced,MOD,3,JJ
+definite,MOD,4,JJ
+destined,MOD,3,JJ
+evident,MOD,4,JJ
+infallible,MOD,4,JJ
+irrefutable,MOD,4,JJ
+obvious,MOD,4,JJ
+successful,MOD,4,JJ
+sure,MOD,4,JJ
+unambiguous,MOD,4,JJ
+undeniable,MOD,4,JJ
+unerring,MOD,4,JJ
+unmistakable,MOD,4,JJ
+verifiable,MOD,3,JJ
+shall,MOD,3,MD
+will,MOD,3,MD
+would,MOD,3,MD
+certainly,MOD,4,RB
+clearly,MOD,4,RB
+definitely,MOD,4,RB
+necessarily,MOD,4,RB
+obviously,MOD,4,RB
+surely,MOD,4,RB
+accomplish,MOD,4,VB
+achieve,MOD,4,VB
+acquire,MOD,4,VB
+arrive,MOD,4,VB
+assure,MOD ATT_SAY,3,VB
+attain,MOD,4,VB
+come through with,MOD,4,VB
+determined,MOD,4,VB
+fulfill,MOD,4,VB
+know,MOD ATT_THINK,4,VB
+manage,MOD,4,VB
+obtain,MOD,4,VB
+prevail,MOD,4,VB
+pull off,MOD,4,VB
+reach,MOD,4,VB
+satisfy,MOD,4,VB
+succeed,MOD,4,VB
+take as gospel,MOD,4,VB
+win,MOD,4,VB
+likely,MOD,3,JJ
+probable,MOD,3,JJ
+should,MOD,3,MD
+probably,MOD,3,RB
+believe,MOD ATT_THINK,3,VB
+expect,MOD ATT_THINK,3,VB
+able,MOD,2,JJ
+capable,MOD,2,JJ
+possible,MOD,2,JJ
+ready,MOD,2,JJ
+uncertain,MOD,2,JJ
+can,MOD,2,MD
+could,MOD,2,MD
+may,MOD,2,MD
+might,MOD,2,MD
+chance,MOD,2,NN
+possibility,MOD,2,NN
+suggestion,MOD,2,NN
+maybe,MOD,2,RB
+perhaps,MOD,2,RB
+possibly,MOD,2,RB
+accept,MOD ATT_THINK,2,VB
+admit,MOD ATT_SAY,4,VB
+affirm,MOD,2,VB
+aim,MOD,2,VB
+appear,MOD,2,VB
+assume,MOD ATT_THINK,2,VB
+await,MOD,2,VB
+conclude,MOD,2,VB
+consider,MOD ATT_THINK,2,VB
+conspire,MOD,2,VB
+count on,MOD,2,VB
+credit,MOD,2,VB
+dare,MOD,2,VB
+envisage,MOD,2,VB
+persuade,MOD ATT_SAY,2,VB
+postulate,MOD,2,VB
+presume,MOD,2,VB
+presuppose,MOD,2,VB
+suppose,MOD ATT_THINK,2,VB
+suspect,MOD,2,VB
+think,MOD ATT_THINK,2,VB
+trust,MOD,2,VB
+wait for,MOD,2,VB
+win over,MOD,2,VB
+doubtful,MOD,1,JJ
+improbable,MOD,1,JJ
+questionable,MOD,1,JJ
+unlikely,MOD,1,JJ
+unreliable,MOD,1,JJ
+unsure,MOD,1,JJ
+doubt,MOD ATT_THINK,1,VB
+powerless,MOD,0,JJ
+short of,MOD,0,JJ
+unable,MOD,0,JJ
+unbelieving,MOD,0,JJ
+unsuccessful,MOD,0,JJ
+useless,MOD,0,JJ
+abort,MOD,0,VB
+abstain,MOD,0,VB
+avoid,MOD,0,VB
+decline,MOD,0,VB
+despair,MOD,0,VB
+despise,MOD,0,VB
+disbelieve,MOD,0,VB
+discount,MOD,0,VB
+discredit,MOD,0,VB
+dislike,MOD,-3,VB
+distrust,MOD,1,VB
+fail,MOD,0,VB
+fall short,MOD,0,VB
+fear,MOD ATT_THINK,2,VB
+fizzle,MOD,0,VB
+flop,MOD,0,VB
+forgo,MOD,0,VB
+hate,MOD,-3,VB
+pass,MOD,0,VB
+in need of,MOD,-1,IN
+needed,MOD,-1,JJ
+required,MOD,-1,JJ
+must,MOD,-1,MD
+need,MOD,-1,MD
+ought,MOD,-1,MD
+requirement,MOD,-1,NN
+allow,MOD,-1,VB
+authorize,MOD,-1,VB
+deny,MOD ATT_SAY,-1,VB
+disallow,MOD,-1,VB
+enable,MOD,-1,VB
+endorse,MOD,-1,VB
+enjoin from,MOD,-1,VB
+exclude,MOD,-1,VB
+give leave,MOD,-1,VB
+have the need,MOD,-1,VB
+have to,MOD,-1,VB
+let,MOD,-1,VB
+obligate,MOD,-1,VB
+okay,MOD,-1,VB
+order,MOD ATT_SAY,-1,VB
+permit,MOD,-1,VB
+refuse,MOD ATT_SAY,-1,VB
+require,MOD,-1,VB
+restrain,MOD,-1,VB
+sanctify,MOD,-1,VB
+sanction,MOD,-1,VB
+sign off,MOD,-1,VB
+sign on,MOD,-1,VB
+suffer,MOD,-1,VB
+tolerate,MOD,-1,VB
+veto,MOD,-1,VB
+aspire,MOD,-2,VB
+attack,MOD,-2,VB
+attempt,MOD,-2,VB
+concoct,MOD,-2,VB
+contemplate,MOD,-2,VB
+contend,MOD ATT_SAY,-2,VB
+contrive,MOD,-2,VB
+design,MOD,-2,VB
+devise,MOD,-2,VB
+endeavor,MOD,-2,VB
+engineer,MOD,-2,VB
+indicate,MOD,-2,VB
+intend,MOD ATT_THINK,-2,VB
+ordain,MOD,-2,VB
+organize,MOD,-2,VB
+plan,MOD ATT_THINK,-2,VB
+plot,MOD,-2,VB
+propose,MOD ATT_SAY ATT_THINK,-2,VB
+resolve,MOD ATT_THINK,-2,VB
+scheme,MOD,-2,VB
+seek,MOD,-2,VB
+signify,MOD,-2,VB
+strive,MOD,-2,VB
+tackle,MOD,-2,VB
+try,MOD,-2,VB
+undertake,MOD,-2,VB
+venture,MOD,-2,VB
+work,MOD,-2,VB
+wrangle,MOD,-2,VB
+beg,MOD ATT_SAY,-3,VB
+beseech,MOD,-3,VB
+covet,MOD,-3,VB
+crave,MOD,-3,VB
+entreat,MOD,-3,VB
+fancy,MOD,-3,VB
+hope,MOD ATT_THINK,-3,VB
+hunger,MOD,-3,VB
+incline to,MOD,-3,VB
+incline toward,MOD,-3,VB
+incline towards,MOD,-3,VB
+long,MOD ATT_THINK,-3,VB
+lust,MOD,-3,VB
+petition,MOD,-3,VB
+pine,MOD,-3,VB
+prefer,MOD ATT_THINK,-3,VB
+promote,MOD,-3,VB
+request,MOD ATT_SAY,-3,VB
+solicit,MOD,-3,VB
+want,MOD ATT_THINK,-3,VB
+wish,MOD ATT_THINK,-3,VB
+acknowledge,ATT_SAY,4,VB
+add,ATT_SAY,3,VB
+advise,ATT_SAY,3,VB
+agree,ATT_SAY ATT_THINK,2,VB
+allege,ATT_SAY,2,VB
+announce,ATT_SAY,3,VB
+answer,ATT_SAY,3,VB
+argue,ATT_SAY,2,VB
+ask,ATT_SAY,2,VB
+assert,ATT_SAY,3,VB
+begin,ATT_SAY,2,VB
+boast,ATT_SAY,2,VB
+call,ATT_SAY,2,VB
+chorus,ATT_SAY,3,VB
+claim,ATT_SAY,2,VB
+command,ATT_SAY,-1,VB
+comment,ATT_SAY,3,VB
+complain,ATT_SAY,3,VB
+concede,ATT_SAY,4,VB
+confess,ATT_SAY,4,VB
+confirm,ATT_SAY,4,VB
+continue,ATT_SAY,3,VB
+convince,ATT_SAY,2,VB
+cry,ATT_SAY,3,VB
+declare,ATT_SAY,3,VB
+decree,ATT_SAY,-1,VB
+demand,ATT_SAY,-1,VB
+describe,ATT_SAY,3,VB
+direct,ATT_SAY,-1,VB
+discuss,ATT_SAY,3,VB
+dispute,ATT_SAY,1,VB
+enquire,ATT_SAY,2,VB
+explain,ATT_SAY,3,VB
+forbid,ATT_SAY,-1,VB
+grumble,ATT_SAY,3,VB
+guarantee,ATT_SAY,2,VB
+hint,ATT_SAY,2,VB
+imply,ATT_SAY,2,VB
+inform,ATT_SAY,3,VB
+inquire,ATT_SAY,2,VB
+insist,ATT_SAY,-1,VB
+instruct,ATT_SAY,-1,VB
+invite,ATT_SAY,2,VB
+maintain,ATT_SAY,2,VB
+mention,ATT_SAY,3,VB
+mumble,ATT_SAY,2,VB
+murmur,ATT_SAY,2,VB
+muse,ATT_SAY ATT_THINK,2,VB
+mutter,ATT_SAY,2,VB
+note,ATT_SAY ATT_THINK,3,VB
+notify,ATT_SAY,3,VB
+object,ATT_SAY,-1,VB
+observe,ATT_SAY,3,VB
+plead,ATT_SAY,-3,VB
+pledge,ATT_SAY,2,VB
+pray,ATT_SAY ATT_THINK,-3,VB
+predict,ATT_SAY,2,VB
+proclaim,ATT_SAY,3,VB
+promise,ATT_SAY,2,VB
+prophesy,ATT_SAY,2,VB
+reassure,ATT_SAY,2,VB
+recall,ATT_SAY ATT_THINK,3,VB
+recite,ATT_SAY,3,VB
+recommend,ATT_SAY,-1,VB
+record,ATT_SAY,3,VB
+remark,ATT_SAY,3,VB
+remind,ATT_SAY,3,VB
+repeat,ATT_SAY,3,VB
+reply,ATT_SAY,3,VB
+report,ATT_SAY,3,VB
+reportedly,ATT_SAY,3,RB
+respond,ATT_SAY,3,VB
+reveal,ATT_SAY,3,VB
+rule,ATT_SAY,-1,VB
+rumoured,ATT_SAY,2,JJ
+say,ATT_SAY,3,VB
+scream,ATT_SAY,2,VB
+shout,ATT_SAY,3,VB
+shriek,ATT_SAY,2,VB
+state,ATT_SAY,3,VB
+stipulate,ATT_SAY,-1,VB
+storm,ATT_SAY,2,VB
+suggest,ATT_SAY,-1,VB
+swear,ATT_SAY,2,VB
+teach,ATT_SAY,3,VB
+tell,ATT_SAY,3,VB
+threaten,ATT_SAY,2,VB
+thunder,REP_SAY,2,VB
+urge,REP_SAY,-1,VB
+vow,REP_SAY ATT_THINK,2,VB
+wail,REP_SAY,2,VB
+warn,REP_SAY,2,VB
+whisper,REP_SAY,3,VB
+write,REP_SAY,3,VB
+yell,REP_SAY,2,VB
+decide,ATT_THINK,3,VB
+determine,ATT_THINK,3,VB
+dream,ATT_THINK,2,VB
+estimate,ATT_THINK,2,VB
+feel,ATT_THINK,2,VB
+figure,ATT_THINK,2,VB
+foresee,ATT_THINK,2,VB
+forget,ATT_THINK,3,VB
+guess,ATT_THINK,2,VB
+hold,ATT_THINK,2,VB
+imagine,ATT_THINK,2,VB
+judge,ATT_THINK,2,VB
+mean,ATT_THINK,2,VB
+ponder,ATT_THINK,2,VB
+reason,ATT_THINK,2,VB
+reckon,ATT_THINK,2,VB
+reflect,ATT_THINK,2,VB
+regret,ATT_THINK,4,VB
+remember,ATT_THINK,4,VB
+understand,ATT_THINK,3,VB
+wonder,ATT_THINK,2,VB
+worry,ATT_THINK,2,VB
+if,COND,2,IN
+unless,COND,2,IN
+whether,COND,2,IN
+in order to,COND,2,RB
+as long as,COND,2,RB
+otherwise,COND,2,RB
+deniable,MOD,1,JJ
+unclear,MOD,1,JJ
+incapable,MOD,0,JJ
+potential,MOD,2,JJ
+probability,MOD,2,NN
+permission,MOD,-1,NN
+impossibility,MOD,0,NN
+intent,MOD,-2,NN
+daring,MOD,2,NN
+speculation,REP_SAY ATT_THINK,2,NN
+intention,MOD,-2,NN
+supposition,ATT_THINK,-2,NN
+hope,ATT_THINK,-3,NN
+opportunity,MOD,2,NN
+hypothesis,ATT_THINK,2,NN
+wishing,ATT_THINK,-3,NN
+authorisation,MOD,-1,NN
+motivation,MOD,-2,NN
+neediness,MOD,-1,NN
+surmisal,ATT_THINK,3,NN
+fearfulness,MOD ATT_THINK,2,NN
+incertitude,MOD,2,NN
+failing,MOD,0,NN
+guesswork,ATT_THINK,2,NN
+effort,MOD,-2,NN
+illusion,ATT_THINK,0,NN
+postulation,MOD,2,NN
+dubiousness,MOD,1,NN
+surmise,ATT_THINK,3,NN
+declination,MOD,0,NN
+ambition,ATT_THINK,-3,NN
+authorization,MOD,-3,NN
+doubtfulness,MOD,2,NN
+uncertainty,MOD,2,NN
+conjecture,ATT_THINK,2,NN
+prerequisite,MOD,-1,NN
+idea,ATT_THINK,2,NN
+feeling,ATT_THINK,2,NN
+endeavour,MOD,-2,NN
+possibleness,MOD,2,NN
+conception,ATT_THINK,2,NN
+question,REP_SAY ATT_THINK,2,NN
+faith,ATT_THINK,3,NN
+in all probability,MOD,3,RB
+nigh,MOD,1,RB
+in all likelihood,MOD,3,RB
+mayhap,MOD,2,RB
+perchance,MOD,2,RB
+plausibly,MOD,2,RB
+by all odds,MOD,2,RB
+for sure,MOD,4,RB
+well-nigh,MOD,3,RB
+for certain,MOD,4,RB
+ostensibly,MOD,2,RB
+refutable,MOD,1,JJ
+unimaginable,ATT_THINK,1,JJ
+inconceivable,MOD,1,JJ
+falsifiable,ATT_THINK,1,JJ
+requisite,MOD,-1,JJ
+dubitable,MOD,1,JJ
+apparent,MOD,2,JJ
+imaginable,ATT_THINK,2,JJ
+dubious,MOD,1,JJ
+mandatory,MOD,-1,JJ
+confirmable,REP_SAY,4,JJ
+unbelievable,ATT_THINK,1,JJ
+indisputable,REP_SAY,3,JJ
+compulsory,MOD,-1,JJ
+commence,MOD,2,VB
+prevent,MOD,0,VB
+authorise,MOD,-1,VB
+simulate,MOD,2,VB
+restrict,MOD,-1,VB
+pretend,MOD,2,VB
+bet,ATT_THINK,3,VB
+presage,ATT_THINK,3,VB
+previse,ATT_THINK,2,VB
+negate,REP_SAY ATT_THINK,-1,VB
+go for,MOD,-2,VB
+deem,MOD,2,VB
+speculate,REP_SAY ATT_THINK,2,VB
+seem,MOD,2,VB
+theorise,REP_SAY ATT_THINK,3,VB
+refrain,MOD,0,VB
+have in mind,ATT_THINK,2,VB
+rumor,REP_SAY,3,VB
+surmise,ATT_THINK,3,VB
+gamble,MOD,2,VB
+think over,ATT_THINK,2,VB
+dream up,ATT_THINK,2,VB
+gainsay,REP_SAY,0,VB
+excogitate,ATT_THINK,2,VB
+legislate,MOD,-1,VB
+infer,REP_SAY ATT_THINK,3,VB
+project,REP_SAY,2,VB
+purport,REP_SAY,2,VB
+portend,MOD,3,VB
+conjecture,ATT_THINK,2,VB
+prognosticate,REP_SAY,2,VB
+implore,MOD,2,VB
+call off,MOD,0,VB
+discourage,MOD,-1,VB
+risk,MOD,2,VB
+mistrust,MOD,1,VB
+detest,MOD,-3,VB
+visualise,ATT_THINK,2,VB
+see,ATT_THINK,3,VB
+evaluate,MOD,3,VB
+hypothesise,ATT_THINK,2,VB
+ask for,MOD,2,VB
+deliberate,ATT_THINK,2,VB
+rumour,REP_SAY,2,VB
+take a chance,MOD,2,VB
+think of,ATT_THINK,2,VB
+evoke,MOD,2,VB
+foreclose,MOD,-1,VB
+fall through,MOD,0,VB
+obviate,MOD,2,VB
+pass up,MOD,0,VB
+disable,MOD,0,VB
+encumber,MOD,1,VB
+see to it,MOD,3,VB
+proscribe,MOD,-1,VB
+monish,REP_SAY,2,VB
+theorize,ATT_THINK,2,VB
+view as,ATT_THINK,2,VB
+take aim,MOD,-2,VB
+chance on,MOD,2,VB
+desire,MOD,-3,VB
+question,MOD,2,VB
+ruminate,ATT_THINK,2,VB
+talk about,REP_SAY,3,VB
+augur,ATT_THINK,2,VB
+ideate,ATT_THINK,2,VB
+take chance,MOD,2,VB
+compel,MOD,-1,VB
+enjoin,MOD,-1,VB
+prompt,MOD,2,VB
+shoot for,MOD,-2,VB
+vie,MOD,-3,VB
+prepare,MOD,2,VB
+commit,MOD,3,VB
+approve,MOD,2,VB
+mull over,ATT_THINK,2,VB
+test,MOD,2,VB
+yearn,MOD,-3,VB
+cognize,ATT_THINK,2,VB
+forestall,MOD,0,VB
+avert,MOD,0,VB
+necessitate,MOD,3,VB
+divulge,REP_SAY,3,VB
+preclude,MOD,-1,VB
+hypothesize,ATT_THINK,2,VB
+forego,MOD,0,VB
+conceive of,ATT_THINK,2,VB
+dissuade,MOD,-1,VB
+advertise,REP_SAY,3,VB
+forecast,REP_SAY ATT_THINK,2,VB
+reassert,REP_SAY,3,VB
+suffice,MOD,2,VB
+prohibit,MOD,-1,VB
+cogitate,REP_SAY,2,VB
+figure out,ATT_THINK,3,VB
+define,REP_SAY ATT_THINK,3,VB
+substantiate,REP_SAY,3,VB
+brag,REP_SAY,2,VB
+argufy,REP_SAY REP_THINK,2,VB
+articulate,REP_SAY,3,VB
+think up,REP_THINK,2,VB
+aver,REP_SAY,3,VB
+pop the question,MOD,2,VB
+cognise,REP_THINK,2,VB
+retell,REP_SAY,3,VB
+apprise,REP_SAY,3,VB
+paint a picture,MOD,2,VB
+anticipate,REP_THINK,2,VB
+negociate,MOD,2,VB
+foreknow,REP_THINK,2,VB
+allow for,MOD,2,VB
+prescribe,MOD,-1,VB
+cerebrate,REP_SAY,2,VB
+dispense with,MOD,0,VB
