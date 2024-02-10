@@ -1,5 +1,9 @@
 # montee
 
+## Update
+Attempting to implement the algorithm detailed in the paper revealed that the paper was incomplete; referring to code associated with the work made me lose confidence in the usefulness of the algorithm itself. I'll keep this repo around, anyways.
+
+## Overview
 Montee is a python library that implements a variant of the algorithm detailed in the 2021 paper [Modality and Negation in Event Extraction](https://arxiv.org/abs/2109.09393) and provides plugins for [spacy](https://spacy.io/) and [stanza](https://stanfordnlp.github.io/stanza/) to allow the algorithm to be used as part of both their nlp pipelines.
 
 The original algorithm uses combinatory categorical grammar parses as semantic graphs underlying annotations; in order to easily integrate with popular python nlp libraries this library uses simpler dependency parse trees instead.
